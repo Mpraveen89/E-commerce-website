@@ -1,0 +1,12 @@
+# Uploads & images
+assets/uploads/
+admin/img/
+uploads/
+
+# Database
+DATABASE FILE/
+*.sql
+
+# Sensitive config
+inc/config.php
+.env
