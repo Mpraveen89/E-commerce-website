@@ -136,7 +136,7 @@ http://localhost/ecommerce/admin
 
 ## 👨‍💻 Author
 
-**M. S. Praveen**  
+**M. PRAVEEN**  
 Full Stack Web Development Intern  
 
 GitHub: https://github.com/Mpraveen89  
