@@ -1,4 +1,4 @@
-# 🛒 Ecommerce – Full Stack Web Application (PHP & MySQL)
+# 🛒 Ecommerce – Full Stack Web Application (PHP & MySQL) PRODIGY_FS_03
 
 A complete **PHP-based E-commerce Web Application** developed using **PHP, MySQL, HTML, CSS, JavaScript**, and deployed on **XAMPP (Apache + MySQL)**.
 
